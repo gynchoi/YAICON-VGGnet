@@ -1,9 +1,14 @@
 <img src="https://github.com/devch1013/YAICON-VGGnet/assets/92439610/0ce35aae-3e19-4a7c-9ea2-0fd8434a6edb" width = "900" >
 
-# VGGnet: Video Graphic Generation network
+# VGGnet: Video Graphic Generation network (Dec. 2023)
 
-## 3rd YAICON Novelty Prize!!
-
+## 🥉 3rd YAICON Novelty Prize!!
+<a href="https://y-ai.notion.site/VGGNet-c23ed35acaee4e13b2c088dce67d0cad">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion" alt="Notion" />
+</a>  
+<a href="https://www.instagram.com/p/C0gditMvuZ2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+</a> 
 
 ## Members 
 - 박찬혁: PM, AI lead
