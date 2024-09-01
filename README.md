@@ -1,6 +1,6 @@
 <img src="https://github.com/devch1013/YAICON-VGGnet/assets/92439610/0ce35aae-3e19-4a7c-9ea2-0fd8434a6edb" width = "900" >
 
-# VGGnet: Video Graphic Generation network (Dec. 2023)
+# VGGnet: Video Graphic Generation network
 
 ## 🥉 3rd YAICON Novelty Prize!!
 <a href="https://y-ai.notion.site/VGGNet-c23ed35acaee4e13b2c088dce67d0cad">
