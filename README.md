@@ -2,7 +2,7 @@
 
 # VGGnet: Video Graphic Generation network
 
-## 🥉 3rd YAICON Novelty Prize!!
+## 3rd YAICON Novelty Prize!!
 <a href="https://y-ai.notion.site/VGGNet-c23ed35acaee4e13b2c088dce67d0cad">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion" alt="Notion" />
 </a>  
